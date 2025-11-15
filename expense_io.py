@@ -1,7 +1,14 @@
+# expense_io.py
+# -------------------------------------------
+# Expense Tracker Application
+# Author: Ben Lufuta
+# Date Created: November 14th, 2025
+# -------------------------------------------
 
-
-def add_expense():
+def load_expenses():
+    
     pass
 
-def view_expenses():
+
+def save_expenses(expenses):
     pass
