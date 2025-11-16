@@ -7,7 +7,7 @@
 
 def load_expenses():
     
-    pass
+    return []
 
 
 def save_expenses(expenses):

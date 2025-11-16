@@ -16,7 +16,7 @@ def main():
     print("\n=== Expense Tracker ===\n")
 
     #Load expenses from file.
-    expenses = load_expenses() 
+    expenses = load_expenses()
     
     while True:
 
